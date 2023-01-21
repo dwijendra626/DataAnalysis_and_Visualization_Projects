@@ -15,6 +15,7 @@ The project consist of two datasets:
 3. **Excel** - Data Acquisition (got the cleaned datasets)
 4. **Power BI** - Data Visualization by making dashboard
 
+### Interactive Dashboard - https://www.novypro.com/project/play-store-1
 #### Project FLow
 ![Project_Flow](imgs/ProjectFlow.png)
 
