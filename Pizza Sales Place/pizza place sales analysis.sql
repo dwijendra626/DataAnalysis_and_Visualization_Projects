@@ -39,7 +39,7 @@ WITH cte AS
 
 -- no.of customers ordered per quantity
 SELECT		quantity_per_order,
-			COUNT(od.order_id) AS no_of_orders
+			COUNT(order_id) AS no_of_orders
 FROM		cte
 GROUP BY 	1
 ORDER BY 	2 DESC;
@@ -71,7 +71,7 @@ USING 		(pizza_id);
 
 /* can we identify any seasonality in the sales? */
 SELECT 		EXTRACT(MONTH FROM o.date) AS months,
-			ROUND(SUM(p.price * od.quantity),2) AS Total_Revenue
+			CONCAT('$', ROUND(SUM(p.price * od.quantity),2)) AS Total_Revenue
 FROM 		orders o
 INNER JOIN 	order_details od
 USING		(order_id)
