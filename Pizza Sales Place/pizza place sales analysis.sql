@@ -71,7 +71,7 @@ USING 		(pizza_id);
 
 /* can we identify any seasonality in the sales? */
 SELECT 		EXTRACT(MONTH FROM o.date) AS months,
-			CONCAT('$', ROUND(SUM(p.price * od.quantity),2)) AS Total_Revenue
+			CONCAT(ROUND(SUM(p.price * od.quantity),2)) AS Total_Revenue
 FROM 		orders o
 INNER JOIN 	order_details od
 USING		(order_id)
