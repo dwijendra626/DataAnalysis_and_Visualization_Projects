@@ -9,6 +9,14 @@ Different types of analysis is done to derive meaningful insights.
 - Sales Analysis
 - Ingredients Analysis
 
+Datasets:
+- pizzas
+- pizza_types
+- orders
+- order_details
+
+![ER Diagram](imgs/er_diagram.jpg)
+
 ### 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭:
 
 Some analysis like 
