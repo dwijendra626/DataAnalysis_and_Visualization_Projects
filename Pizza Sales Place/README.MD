@@ -43,5 +43,5 @@ Some analysis like
 
 **Dashboard links:**
 
-- **Novypro**: https://www.novypro.com/project/pizza-sales
-- **Maven Analytics**: https://www.mavenanalytics.io/project/3031
+- **Novypro**: ![Novypro](https://www.novypro.com/project/pizza-sales)
+- **Maven Analytics**: ![Maven Analytics](https://www.mavenanalytics.io/project/3031)
