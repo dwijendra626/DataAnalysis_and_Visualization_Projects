@@ -15,7 +15,7 @@ Datasets:
 - orders
 - order_details
 
-![ER Diagram]("final dashboard_with_queries/imgs/er_diagram.jpg")
+![ER Diagram](../Pizza%20Sales%20Place/final%20dashboard_with_queries/imgs/er_diagram.jpg)
 
 ### 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭:
 
