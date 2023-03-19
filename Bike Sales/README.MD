@@ -7,7 +7,7 @@ To create a dashboard in excel by finding bike sales across different regions, o
 Dataset:
 - bike_sales
 
-![Bike Sales](..Bike Sales/imgs/bike_sales.jpg)
+![Bike Sales](../Bike%20Sales/imgs/bike%20sales.jpg)
 
 ### 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭:
 
