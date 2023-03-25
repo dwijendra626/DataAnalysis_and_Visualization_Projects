@@ -13,7 +13,7 @@ Dataset:
 
 1. Did **data cleaning** to remove duplicates.
 2. Created **PivotCharts**, **Graphs**, **Slicers** and **PivotTables** to summarize the data and visually get the information quickly.
-3. Lastly, **built an Interactive Dashboard** in excel with slicers so that users can interact with the dashboard and view it in different ways.
+3. Lastly, built an **Interactive Dashboard** in excel with slicers so that users can interact with the dashboard and view it in different ways.
 
 ### **Key Insights**:
 - **Adidas** is the **largest sportswear manufacturer**.
