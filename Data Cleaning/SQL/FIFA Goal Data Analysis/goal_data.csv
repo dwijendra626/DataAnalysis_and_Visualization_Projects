@@ -1,0 +1,176 @@
+ID,Home,Away,Stage,Scorer,ScoringTeam,Type
+FR001,Russia,Saudi Arabia,GroupRound1,Gazinsky,Russia,Inside
+FR002,Russia,Saudi Arabia,GroupRound1,Cheryshev,Russia,Inside
+FR003,Russia,Saudi Arabia,GroupRound1,Dzyuba,Russia,Inside
+FR004,Russia,Saudi Arabia,GroupRound1,Cheryshev,Russia,Inside
+FR005,Russia,Saudi Arabia,GroupRound1,Golovin,Russia,Freekick
+FR006,Egypt,Uruguay,GroupRound1,Gimenez,Uruguay,Inside
+FR007,Russia,Egypt,GroupRound2,Fathy,Russia,Own
+FR008,Russia,Egypt,GroupRound2,Cheryshev,Russia,Inside
+FR009,Russia,Egypt,GroupRound2,Dzyuba,Russia,Inside
+FR010,Russia,Egypt,GroupRound2,Salah,Egypt,Penalty
+FR011,Uruguay,Saudi Arabia,GroupRound2,Suarez,Uruguay,Inside
+FR012,Uruguay,Russia,GroupRound3,Suarez,Uruguay,Freekick
+FR013,Uruguay,Russia,GroupRound3,Cheryshev,Uruguay,Own
+FR014,Uruguay,Russia,GroupRound3,Cavani,Uruguay,Inside
+FR015,Saudi Arabia,Egypt,GroupRound3,Salah,Egypt,Outside
+FR016,Saudi Arabia,Egypt,GroupRound3,Al-Faraj,Saudi Arabia,Penalty
+FR017,Saudi Arabia,Egypt,GroupRound3,Al-Dawsari,Saudi Arabia,Inside
+FR018,Morocco,Iran,GroupRound1,Bouhaddouz,Iran,Own
+FR019,Portugal,Spain,GroupRound1,Ronaldo,Portugal,Penalty
+FR020,Portugal,Spain,GroupRound1,Costa,Spain,Inside
+FR021,Portugal,Spain,GroupRound1,Ronaldo,Portugal,Outside
+FR022,Portugal,Spain,GroupRound1,Costa,Spain,Inside
+FR023,Portugal,Spain,GroupRound1,Nacho,Spain,Outside
+FR024,Portugal,Spain,GroupRound1,Ronaldo,Portugal,Freekick
+FR025,Portugal,Morocco,GroupRound2,Ronaldo,Portugal,Inside
+FR026,Iran,Spain,GroupRound2,Costa,Spain,Inside
+FR027,Iran,Portugal,GroupRound3,Quaresma,Portugal,Outside
+FR028,Iran,Portugal,GroupRound3,Ansarifard,Iran,Penalty
+FR029,Spain,Morocco,GroupRound3,Boutaib,Morocco,Inside
+FR030,Spain,Morocco,GroupRound3,Isco,Spain,Inside
+FR031,Spain,Morocco,GroupRound3,En-Nesyri,Morocco,Inside
+FR032,Spain,Morocco,GroupRound3,Aspas,Spain,Inside
+FR033,France,Australia,GroupRound1,Griezmann,France,Penalty
+FR034,France,Australia,GroupRound1,Jedinak,Australia,Penalty
+FR035,France,Australia,GroupRound1,Behich,France,Own
+FR036,Peru,Denmark,GroupRound1,Poulsen,Denmark,Inside
+FR037,Denmark,Australia,GroupRound2,Eriksen,Denmark,Inside
+FR038,Denmark,Australia,GroupRound2,Jedinak,Australia,Penalty
+FR039,France,Peru,GroupRound2,Mbappe,France,Inside
+FR040,Australia,Peru,GroupRound3,Carillo,Peru,Inside
+FR041,Australia,Peru,GroupRound3,Guerrero,Peru,Inside
+FR042,Argentina,Iceland,GroupRound1,Aguero,Argentina,Inside
+FR043,Argentina,Iceland,GroupRound1,Finnbogason,Iceland,Inside
+FR044,Croatia,Nigeria,GroupRound1,Etebo,Croatia,Own
+FR045,Croatia,Nigeria,GroupRound1,Modric,Croatia,Penalty
+FR046,Argentina,Croatia,GroupRound2,Rebic,Croatia,Inside
+FR047,Argentina,Croatia,GroupRound2,Modric,Croatia,Outside
+FR048,Argentina,Croatia,GroupRound2,Rakitic,Croatia,Inside
+FR049,Nigeria,Iceland,GroupRound2,Musa,Nigeria,Inside
+FR050,Nigeria,Iceland,GroupRound2,Musa,Nigeria,Inside
+FR051,Nigeria,Argentina,GroupRound3,Messi,Argentina,Inside
+FR052,Nigeria,Argentina,GroupRound3,Moses,Nigeria,Penalty
+FR053,Nigeria,Argentina,GroupRound3,Rojo,Argentina,Inside
+FR054,Iceland,Croatia,GroupRound3,Badelj,Croatia,Inside
+FR055,Iceland,Croatia,GroupRound3,Sigurdsson,Iceland,Penalty
+FR056,Iceland,Croatia,GroupRound3,Perisic,Croatia,Inside
+FR057,Costa Rica,Serbia,GroupRound1,Kolarov,Serbia,Freekick
+FR058,Brazil,Switzerland,GroupRound1,Coutinho,Brazil,Outside
+FR059,Brazil,Switzerland,GroupRound1,Zuber,Switzerland,Inside
+FR060,Brazil,Costa Rica,GroupRound2,Coutinho,Brazil,Inside
+FR061,Brazil,Costa Rica,GroupRound2,Neymar,Brazil,Inside
+FR062,Serbia,Switzerland,GroupRound2,Mitrovic,Serbia,Inside
+FR063,Serbia,Switzerland,GroupRound2,Xhaka,Switzerland,Outside
+FR064,Serbia,Switzerland,GroupRound2,Shaqiri,Switzerland,Inside
+FR065,Serbia,Brazil,GroupRound3,Paulinho,Brazil,Inside
+FR065,Serbia,Brazil,GroupRound3,Paulinho,Brazil,Inside
+FR066,Serbia,Brazil,GroupRound3,Thiago Silva,Brazil,Inside
+FR067,Switzerland,Costa Rica,GroupRound3,Dzemaili,Switzerland,Inside
+FR068,Switzerland,Costa Rica,GroupRound3,Watson,Costa Rica,Inside
+FR069,Switzerland,Costa Rica,GroupRound3,Drmic,Switzerland,Inside
+FR070,Switzerland,Costa Rica,GroupRound3,Sommer,Costa Rica,Own
+FR071,Germany,Mexico,GroupRound1,Lozano,Mexico,Inside
+FR072,Sweden,South Korea,GroupRound1,Granqvist,Sweden,Penalty
+FR073,South Korea,Mexico,GroupRound2,Vela,Mexico,Penalty
+FR074,South Korea,Mexico,GroupRound2,Hernandez,Mexico,Inside
+FR075,South Korea,Mexico,GroupRound2,Son Heung-min,South Korea,Outside
+FR076,Germany,Sweden,GroupRound2,Toivonen,Sweden,Inside
+FR077,Germany,Sweden,GroupRound2,Reus,Germany,Inside
+FR078,Germany,Sweden,GroupRound2,Kroos,Germany,Inside
+FR079,South Korea,Germany,GroupRound3,Kim Young-gwon,South Korea,Inside
+FR080,South Korea,Germany,GroupRound3,Son Heung-min,South Korea,Inside
+FR081,Mexico,Sweden,GroupRound3,Augustinsson,Sweden,Inside
+FR082,Mexico,Sweden,GroupRound3,Granqvist,Sweden,Penalty
+FR083,Mexico,Sweden,GroupRound3,Alvarez,Sweden,Own
+FR084,Belgium,Panama,GroupRound1,Mertens,Belgium,Inside
+FR085,Belgium,Panama,GroupRound1,Lukaku,Belgium,Inside
+FR086,Belgium,Panama,GroupRound1,Lukaku,Belgium,Inside
+FR087,Tunisia,England,GroupRound1,Kane,England,Inside
+FR088,Tunisia,England,GroupRound1,Sassi,Tunisia,Penalty
+FR089,Tunisia,England,GroupRound1,Kane,England,Inside
+FR090,Belgium,Tunisia,GroupRound2,Hazard,Belgium,Penalty
+FR091,Belgium,Tunisia,GroupRound2,Lukaku,Belgium,Inside
+FR092,Belgium,Tunisia,GroupRound2,Bronn,Tunisia,Inside
+FR093,Belgium,Tunisia,GroupRound2,Lukaku,Belgium,Inside
+FR094,Belgium,Tunisia,GroupRound2,Hazard,Belgium,Inside
+FR095,Belgium,Tunisia,GroupRound2,Batshuayi,Belgium,Inside
+FR096,Belgium,Tunisia,GroupRound2,Khazri,Tunisia,Inside
+FR094,Belgium,Tunisia,GroupRound2,Hazard,Belgium,Inside
+FR097,England,Panama,GroupRound2,Stones,England,Inside
+FR098,England,Panama,GroupRound2,Kane,England,Penalty
+FR099,England,Panama,GroupRound2,Lingard,England,Outside
+FR100,England,Panama,GroupRound2,Stones,England,Inside
+FR101,England,Panama,GroupRound2,Kane,England,Penalty
+FR102,England,Panama,GroupRound2,Kane,England,Inside
+FR103,England,Panama,GroupRound2,Baloy,Panama,Inside
+FR104,England,Belgium,GroupRound3,Januzaj,Belgium,Inside
+FR105,Panama,Tunisia,GroupRound3,Meriah,Panama,Own
+FR106,Panama,Tunisia,GroupRound3,Ben Youssef,Tunisia,Inside
+FR107,Panama,Tunisia,GroupRound3,Khazri,Tunisia,Inside
+FR108,Colombia,Japan,GroupRound1,Kagawa,Japan,Penalty
+FR109,Colombia,Japan,GroupRound1,Quintero,Colombia,Freekick
+FR110,Colombia,Japan,GroupRound1,Osako,Japan,Inside
+FR111,Poland,Senegal,GroupRound1,Cionek,Senegal,Own
+FR112,Poland,Senegal,GroupRound1,Niang,Senegal,Inside
+FR113,Poland,Senegal,GroupRound1,Krychowiak,Poland,Inside
+FR114,Japan,Senegal,GroupRound2,Mane,Senegal,Inside
+FR115,Japan,Senegal,GroupRound2,Inui,Japan,Inside
+FR116,Japan,Senegal,GroupRound2,Wague,Senegal,Inside
+FR115,Japan,Senegal,GroupRound2,Inui,Japan,Inside
+FR118,Poland,Colombia,GroupRound2,Mina,Colombia,Inside
+FR119,Poland,Colombia,GroupRound2,Falcao,Colombia,Inside
+FR120,Poland,Colombia,GroupRound2,Cuadrado,Colombia,Inside
+FR121,Japan,Poland,GroupRound3,Bednarek,Poland,Inside
+FR122,Senegal,Colombia,GroupRound3,Mina,Colombia,Inside
+FR123,France,Argentina,Round16,Griezmann,France,Penalty
+FR124,France,Argentina,Round16,Di Maria,Argentina,Outside
+FR125,France,Argentina,Round16,Mercado,Argentina,Inside
+FR126,France,Argentina,Round16,Pavard,France,Outside
+FR127,France,Argentina,Round16,Mbappe,France,Inside
+FR128,France,Argentina,Round16,Mbappe,France,Inside
+FR129,France,Argentina,Round16,Aguero,Argentina,Inside
+FR130,Uruguay,Portugal,Round16,Cavani,Uruguay,Inside
+FR131,Uruguay,Portugal,Round16,Pepe,Portugal,Inside
+FR132,Uruguay,Portugal,Round16,Cavani,Uruguay,Inside
+FR133,Spain,Russia,Round16,Ignashevich,Spain,Own
+FR129,France,Argentina,Round16,Aguero,Argentina,Inside
+FR134,Spain,Russia,Round16,Dzyuba,Russia,Penalty
+FR135,Croatia,Denmark,Round16,Jorgensen,Denmark,Inside
+FR136,Croatia,Denmark,Round16,Mandzukic,Croatia,Inside
+FR137,Brazil,Mexico,Round16,Neymar,Brazil,Inside
+FR138,Brazil,Mexico,Round16,Firmino,Brazil,Inside
+FR139,Belgium,Japan,Round16,Haraguchi,Japan,Inside
+FR140,Belgium,Japan,Round16,Inui,Japan,Outside
+FR141,Belgium,Japan,Round16,Vertonghen,Belgium,Inside
+FR142,Belgium,Japan,Round16,Fellaini,Belgium,Inside
+FR143,Belgium,Japan,Round16,Chadli,Belgium,Inside
+FR144,Sweden,Switzerland,Round16,Forsberg,Sweden,Outside
+FR140,Belgium,Japan,Round16,Inui,Japan,Outside
+FR145,Colombia,England,Round16,Kane,England,Penalty
+FR146,Colombia,England,Round16,Mina,Colombia,Inside
+FR147,Uruguay,France,Quarterfinals,Varane,France,Inside
+FR148,Uruguay,France,Quarterfinals,Griezmann,France,Outside
+FR149,Brazil,Belgium,Quarterfinals,Fernandinho,Belgium,Own
+FR150,Brazil,Belgium,Quarterfinals,De Bruyne,Belgium,Outside
+FR151,Brazil,Belgium,Quarterfinals,Renato Augusto,Brazil,Inside
+FR152,Sweden,England,Quarterfinals,Maguire,England,Inside
+FR151,Brazil,Belgium,Quarterfinals,Renato Augusto,Brazil,Inside
+FR153,Sweden,England,Quarterfinals,Alli,England,Inside
+FR154,Russia,Croatia,Quarterfinals,Cheryshev,Russia,Outside
+FR155,Russia,Croatia,Quarterfinals,Kramaric,Croatia,Inside
+FR156,Russia,Croatia,Quarterfinals,Vida,Croatia,Inside
+FR157,Russia,Croatia,Quarterfinals,Fernandes,Russia,Inside
+FR158,France,Belgium,Semifinals,Umtiti,France,Inside
+FR159,Croatia,England,Semifinals,Trippier,England,Freekick
+FR160,Croatia,England,Semifinals,Perisic,Croatia,Inside
+FR161,Croatia,England,Semifinals,Mandzukic,Croatia,Inside
+FR159,Croatia,England,Semifinals,Trippier,England,Freekick
+FR162,Belgium,England,ThirdPlace,Meunier,Belgium,Inside
+FR163,Belgium,England,ThirdPlace,Hazard,Belgium,Inside
+FR164,France,Croatia,Final,Mandzukic,France,Own
+FR165,France,Croatia,Final,Perisic,Croatia,Inside
+FR166,France,Croatia,Final,Griezmann,France,Penalty
+FR167,France,Croatia,Final,Pogba,France,Outside
+FR168,France,Croatia,Final,Mbappe,France,Outside
+FR169,France,Croatia,Final,Mandzukic,Croatia,Inside
